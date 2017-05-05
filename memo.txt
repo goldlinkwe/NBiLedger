@@ -1,0 +1,64 @@
+
+Merak-doc
+
+Merak API BOOK
+Updated on 29 Mar
+MerakRubySDK
+Forked from stellar/ruby-stellar-sdk
+
+Main Stellar client library for the Ruby language
+Ruby 5 Updated on 21 Mar
+MerakPySDK
+Forked from StellarCN/py-stellar-base
+
+a python version of stellar-base library; WIP.
+Python 13 Updated on 18 Mar
+MerakGoSDK
+Forked from stellar/go
+
+Stellar's public monorepo of go code
+Go 6 Updated on 15 Mar
+Alioth
+
+Federation Service
+Updated on 14 Mar
+Megrez
+
+Compliance Service
+Updated on 14 Mar
+Phecda
+
+Integrated Bridge Service
+Updated on 14 Mar
+doc
+Forked from stellar/docs
+
+Stellar documentation
+61 Updated on 14 Mar
+Merak
+Forked from stellar/horizon
+
+Open API Service
+Go 33 Updated on 10 Mar
+MerakJSSDK
+Forked from stellar/js-stellar-sdk
+
+Main Stellar client library for the Javascript language
+JavaScript 20 Updated on 9 Mar
+Dubhe
+Forked from stellar/stellar-core
+
+Core Service
+C++ 131 Updated on 8 Mar
+MerakCsharpSDK
+Forked from QuantozTechnology/csharp-stellar-base
+
+Quick and dirty library to create, encode and decode Stellar transactions
+C# 4 Updated on 6 Mar
+MerakJavaSDK
+Forked from stellar/java-stellar-sdk
+Java 15 Updated on 15 Feb
+Alkaid-testtools
+
+Test and evaluate tools
+Go Updated on 12 Jan
